@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+streamlit
+openpyxl
+plotly
+streamlit-folium
